@@ -1,11 +1,11 @@
 ## Привет!:wave:
-Меня зовут Павел, мне 30 лет и я интересуюсь анализом данных!
+Меня зовут Павел.
 
 ## Курсы:
 <table>
 <tr>
   <th>Название курса</th>
-  <th>Статус</th>
+  <th>Прогресс</th>
 <tr>
   <td><a href = "https://practicum.yandex.ru/data-scientist/">Яндекс.Практикум: Специалист по Data Science</a></td>
   <td>В процессе (до 16.07.2023)</td>
@@ -15,7 +15,7 @@
 <table>
 <tr>
   <th>Название проекта</th>
-  <th>Описание</th>
+  <th>Краткое описание</th>
 </tr> 
 <tr>
   <td><a href = "https://github.com/BeePawlight/estate_research">Исследовательский анализ данных</a></td>
