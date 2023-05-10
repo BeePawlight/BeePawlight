@@ -1,6 +1,11 @@
 ## Привет!:wave:
 Меня зовут Павел.
 
+## Как связаться со мной
+:email: pvl_krylov@inbox.ru
+
+:iphone: @pvlkrylov (Telegram)
+
 ## Курсы:
 <table>
 <tr>
