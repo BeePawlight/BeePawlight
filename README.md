@@ -13,7 +13,7 @@
   <th>Прогресс</th>
 <tr>
   <td><a href = "https://practicum.yandex.ru/data-scientist/">Яндекс.Практикум: Специалист по Data Science</a></td>
-  <td>В процессе (до 16.07.2023)</td>
+  <td>Окончен</td>
 </table>
 
 ## Проекты:
